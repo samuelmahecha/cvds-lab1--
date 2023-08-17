@@ -1,0 +1,21 @@
+# cvds-lab1--  Readme Samuel
+
+# Samuel
+Mi nombre es **samuel mahecha**
+## Informacion general 
+- Estudio *ingenieria de sistemas*
+- tengo 19 años
+### Informacion adicional
+lista de hobbies:
+1. Jugar futbol
+2. leer
+3. natacion
+### Equipo de futbol preferido
+[enlace a la pagina web del equipo](https://www.realmadrid.com/)
+### Foto del punto 3 del lab
+[]()
+### fragmento codigo
+'''python
+def saludar():
+   print("hola, profe")
+
